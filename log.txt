@@ -1,0 +1,25 @@
+|21/03|23:39:36| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, Olá Nimi!!!
+|21/03|23:39:42| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, Nimi?
+|21/03|23:39:42| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>konbakuwa! ⸜( *ˊ ᵕ ˋ* )⸝, eu sou a Nimi, uma assistente virtual criada para ajudar você com diversas tarefas.
+    
+    Comandos:(os comandos começam com o prefixo '>') 
+    `>poke <nome/número do pokemon>` - mostra as informações do pokemon que escolher
+    `>imagem` - envia um meme meu >^ ^<
+    `>voz` - envia um áudio meu falando com você!
+    `>senha <comprimento>` - gera uma senha aleatória com o comprimento especificado
+    `>hora` - mostra a hora atual
+    `>moeda <cara/coroa>` - uma rodada de cara ou coroa ฅ(^•ﻌ•^ฅ)
+
+Estou aqui para facilitar sua vida, então não hesite em me chamar sempre que precisar!
+|21/03|23:39:44| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, Oi
+|21/03|23:39:47| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, >hora
+|21/03|23:39:47| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>Hora atual: 23:39:47
+|21/03|23:39:48| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>Boa noite!
+|21/03|23:39:53| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, >moeda coroa
+|21/03|23:39:53| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>Você escolheu: coroa
+|21/03|23:39:54| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>Resultado: Cara
+|21/03|23:39:55| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>você perdeu!
+|21/03|23:40:01| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, >senha 100
+|21/03|23:40:01| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, |>Senha gerada: >4$keE'B4|Jwp)Fd&;gybqab'cqFoa!I[a#GT j%#;PXW38z3?->ZnP<]+e?9_%~J:Sdu^!qx2^r[)nRjkga3OY5'm1\#<;UjSB'
+|21/03|23:40:08| 1478471684167307276, 1478471684926214270 = nimi-bot, 944598345274490890 = felipe_carneiro, >poke 785
+|21/03|23:40:08| 1478471684167307276, 1478471684926214270 = nimi-bot, 1478470655736545350 = Nimi#5014, 
