@@ -14,5 +14,5 @@ settings ={
 Estou aqui para facilitar sua vida, então não hesite em me chamar sempre que precisar!
     """,
 
-    "TOKEN": "MTQ3ODQ3MDY1NTczNjU0NTM1MA.GH4ziv.nm324yV234UfUAh95j1UtnhNW_EZBjmyIFtKMs"
+    "TOKEN": "---"
 }
